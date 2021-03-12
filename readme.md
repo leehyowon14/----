@@ -4,10 +4,11 @@
 ---
 입출력 예:
 ---
-input:나는 시장에 갔다
+input:나는 시장에 갔다\
 output:['나', '시장']
 
 없는 단어들은 **noun.txt**와 **josahada.txt**에 추가하여 분리가능.
+
 noun.txt = 명사 사전
 josahada.txt = 조사, 용언사전
 
